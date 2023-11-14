@@ -21,6 +21,8 @@ The prompts for generating the images, as well as font resources, can be found i
 
 [<img src="./posters/indiana_jonas/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
 
+[<img src="./posters/nightmare/poster.png" width="50%">](./posters/nightmare/README.md)<br/>
+
 [<img src="./posters/friday_13_deploy/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
 
 [<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)<br/>
@@ -34,6 +36,7 @@ https://www.klipartz.com/en/sticker-png-gikwo/download
 https://br.freepik.com/fotos-gratis/ceu-estrelado_7061153.htm#query=ceu%20estrelado%20png&position=0&from_view=keyword&track=ais
 
 https://www.dafont.com/the-amazing-spider-man.font
+https://www.dafont.com/spider-font.font?fpp=100
 
 https://www.dafont.com/star-jedi.font
 
