@@ -21,6 +21,8 @@ The prompts for generating the images, as well as font resources, can be found i
 
 [<img src="./posters/indiana_jonas/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
 
+[<img src="./posters/friday_13_deploy/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
+
 [<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)<br/>
 
 [<img src="./posters/myriad_secrets/poster.png" width="50%">](./posters/myriad_secrets/README.md)<br/>
