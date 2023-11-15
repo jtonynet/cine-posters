@@ -15,6 +15,8 @@ The prompts for generating the images, as well as font resources, can be found i
 
 [<img src="./posters/jaws/poster.png" width="50%">](./posters/jaws/README.md)<br/>
 
+[<img src="./posters/bugbusters/poster.png" width="50%">](./posters/bugbusters/README.md)<br/>
+
 [<img src="./posters/friday_13_deploy/poster.png" width="50%">](./posters/friday_13_deploy/README.md)<br/>
 
 [<img src="./posters/nightmare/poster.png" width="50%">](./posters/nightmare/README.md)<br/>
