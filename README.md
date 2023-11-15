@@ -9,6 +9,8 @@ The prompts for generating the images, as well as font resources, can be found i
 
 [<img src="./posters/star_wars/poster.png" width="50%">](./posters/star_wars/README.md)<br/>
 
+[<img src="./posters/avengeance/poster.png" width="50%">](./posters/avengeance/README.md)<br/>
+
 [<img src="./posters/back_to/poster.png" width="50%">](./posters/back_to/README.md)<br/>
 
 [<img src="./posters/jaws/poster.png" width="50%">](./posters/jaws/README.md)<br/>
