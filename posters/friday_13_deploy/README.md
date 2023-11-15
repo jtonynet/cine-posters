@@ -5,7 +5,7 @@
 Esse poster foi criado com o auxílio de [inteligência artificial](https://www.bing.com/images/) e um mínimo de 
 retoque e construção no Gimp [<img src="../../assets/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
 
-A fonte [Indiana Jonas](https://www.dafont.com/friday13.font) foi utilizada
+A fonte [Friday 13](https://www.dafont.com/friday13.font) foi utilizada
 
 
 __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__

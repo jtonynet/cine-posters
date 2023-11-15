@@ -11,7 +11,7 @@ A fonte [Amity Jack](https://www.dafont.com/amity-jack.font?text=JAWS&psize=l) f
 __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__
 
 <details>
-  <summary><b>"Nadadora" </b></summary>
+  <summary><b>"Nadadora e Tubarão" </b></summary>
 <i>"gopher cartoon femea loira de nadando lateralmente no oceano com 70% da imagem sendo azul da cor do mar e os outros 30% branco chapado representando o ceu e na parte inferior do mar OUTRO gopher grande AZUL NA MESMA POSE DO POSTER DO FILME JAWS com os dois dentes frontais grandes afiados EM CG 3D PIXAR PARECIDO COM POSTER do filme JAWS "<b>(sic)</b></i>
 </details>
 

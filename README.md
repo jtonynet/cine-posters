@@ -7,28 +7,25 @@ These are satires and parodies with no commercial intent, created solely for cre
 The prompts for generating the images, as well as font resources, can be found in their respective directories in the readme files when available.
 
 
-
-[<img src="./posters/bad_boys/poster.png" width="50%">](./posters/bad_boys/README.md)<br/>
-
-<img src="./posters/pretty_gopher/poster.png" width="50%"><br/>
+[<img src="./posters/star_wars/poster.png" width="50%">](./posters/star_wars/README.md)<br/> -->
 
 [<img src="./posters/back_to/poster.png" width="50%">](./posters/back_to/README.md)<br/>
 
 [<img src="./posters/jaws/poster.png" width="50%">](./posters/jaws/README.md)<br/>
 
-[<img src="./posters/indiana_jonas/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
+[<img src="./posters/friday_13_deploy/poster.png" width="50%">](./posters/friday_13_deploy/README.md)<br/>
 
 [<img src="./posters/nightmare/poster.png" width="50%">](./posters/nightmare/README.md)<br/>
 
-[<img src="./posters/friday_13_deploy/poster.png" width="50%">](./posters/friday_13_deploy/README.md)<br/>
+[<img src="./posters/spyder_gopher/poster.png" width="50%">](./posters/spyder_gopher/README.md)<br/> 
+
+<img src="./posters/pretty_gopher/poster.png" width="50%"><br/>
+
+[<img src="./posters/bad_boys/poster.png" width="50%">](./posters/bad_boys/README.md)<br/>
+
+[<img src="./posters/indiana_jonas/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
 
 [<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)<br/>
-
-<img src="./posters/spyder_gopher/poster.png" width="50%"><br/>
-<!-- <img src="./posters/spyder_gopher/poster.png" width="50%">](./posters/spyder_gopher/README.md)<br/> -->
-
-<img src="./posters/star_wars/poster.png" width="50%">
-<!-- img src="./posters/star_wars/poster.png" width="50%">(./posters/star_wars/README.md)<br/> -->
 
 [<img src="./posters/myriad_secrets/poster.png" width="50%">](./posters/myriad_secrets/README.md)<br/>
 
@@ -38,12 +35,6 @@ https://www.klipartz.com/en/sticker-png-gikwo/download
 
 https://br.freepik.com/fotos-gratis/ceu-estrelado_7061153.htm#query=ceu%20estrelado%20png&position=0&from_view=keyword&track=ais
 
-https://www.dafont.com/the-amazing-spider-man.font
-https://www.dafont.com/spider-font.font?fpp=100
-https://www.fontspace.com/webslinger-2-font-f71972
-https://www.dafont.com/font-comment.php?file=homoarakhan
-
-https://www.dafont.com/star-jedi.font
 
 https://www.dafont.com/pt/rio-black.font
 
