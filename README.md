@@ -7,7 +7,7 @@ These are satires and parodies with no commercial intent, created solely for cre
 The prompts for generating the images, as well as font resources, can be found in their respective directories in the readme files when available.
 
 
-[<img src="./posters/star_wars/poster.png" width="50%">](./posters/star_wars/README.md)<br/> -->
+[<img src="./posters/star_wars/poster.png" width="50%">](./posters/star_wars/README.md)<br/>
 
 [<img src="./posters/back_to/poster.png" width="50%">](./posters/back_to/README.md)<br/>
 
