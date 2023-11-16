@@ -37,6 +37,8 @@ __The following prompts were used TO create reademe header, in PT-BR, for creati
 
 [<img src="./posters/nightmare/poster.png" width="50%">](./posters/nightmare/README.md)<br/>
 
+[<img src="./posters/algorythms_night_fever/poster.png" width="50%">](./posters/nightmare/README.md)<br/>
+
 [<img src="./posters/spyder_gopher/poster.png" width="50%">](./posters/spyder_gopher/README.md)<br/> 
 
 <img src="./posters/pretty_gopher/poster.png" width="50%"><br/>
