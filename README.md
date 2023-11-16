@@ -43,9 +43,10 @@ __The following prompts were used TO create reademe header, in PT-BR, for creati
 
 [<img src="./posters/bad_boys/poster.png" width="50%">](./posters/bad_boys/README.md)<br/>
 
-[<img src="./posters/indiana_jonas/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
 
 [<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)<br/>
+
+[<img src="./posters/indiana_jonas/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
 
 [<img src="./posters/myriad_secrets/poster.png" width="50%">](./posters/myriad_secrets/README.md)<br/>
 
