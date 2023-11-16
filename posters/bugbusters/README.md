@@ -12,6 +12,6 @@ __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https:/
 
 <details>
   <summary><b>"Bugbusters" </b></summary>
-<i>"SOMENTE 4 Gophers azuis com roupas de BUGbusters inspirado em ghostbusters, um segurando a arma de protons, todos de frente com rosto de assustados e seja possivel ver o carro ecto-1 e a sede do corpo de bombeiros caracterisca dos ghostbusters, poster de filme estilo pixar 3d ceu preto chapado sem nuvems "<b>(sic)</b></i>
+<i>"SOMENTE 4 Gophers azuis com roupas de BUGbusters inspirado em ghostbusters, um segurando a arma de protons, todos de frente com rosto de assustados e seja possivel ver o carro ecto-1 e a sede do corpo de bombeiros caracterisca dos ghostbusters, poster de filme estilo pixar 3d ceu preto chapado sem nuvems"<b>(sic)</b></i>
 </details>
 
