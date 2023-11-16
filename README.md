@@ -6,10 +6,16 @@ This repository features memes in the form of posters for fictitious movies insp
 
 These are satires and parodies with no commercial intent, created solely for creativity and future use in the educational project [CineCatalogo](https://github.com/jtonynet/cine-catalogo) microsservice part of [CineTicket Study](https://github.com/jtonynet/cine-ticket-study-microsservices). 
 
+
+
 The prompts for generating the images, as well as font resources, can be found in their respective directories in the readme files when available.
 
 
-__The following prompts were used TO create reademe header, in PT-BR, for creation in [Bing IA:](https://www.bing.com/images/create/)__
+---
+
+### :robot: Use of AI Header:
+
+__The following prompts were used to create readme header, in PT-BR, for creation in [Bing IA:](https://www.bing.com/images/create/)__
 
 
 <details>
@@ -17,9 +23,17 @@ __The following prompts were used TO create reademe header, in PT-BR, for creati
 "Gopher azul simbolo da linguagen goleng, desenhista, sentado em frente a uma prancheta segurando um lapis desenhando, OUTRO PERSONAGEM Robo atras dele, escrito I.A. em algum local dele apontando para o seu desenho e no chao varios papeis amassados em estilo cartoon comics com cores chapadas e fundo totalmente branco"<b>(sic)</b>
 </details>
 
-<br>
 
 ---
+
+### 🕸️ Found me in web:
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aromademirtilo) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learningenuity) 
+
+<br/>
+
+---
+
+### :movie_camera: Movie Posters:
 
 <br/>
 
