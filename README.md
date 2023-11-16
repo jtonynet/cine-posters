@@ -1,3 +1,5 @@
+<img src="./assets/header.png" >
+
 ### :green_book: About:
 
 This repository features memes in the form of posters for fictitious movies inspired by box office classics, with the majority featuring Gopher, the mascot of the Golang language, as the main character, along with other jokes involving various programming languages. It has a purely comedic nature with no aspirations of being the work of professional designers. AI was used extensively with minimal touch-ups and construction in Gimp [<img src="./assets/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Gimp Logo" />](https://www.gimp.org/).
