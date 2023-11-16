@@ -39,15 +39,13 @@ __The following prompts were used TO create reademe header, in PT-BR, for creati
 
 [<img src="./posters/algorythms_night_fever/poster.png" width="50%">](./posters/algorythms_night_fever/README.md)<br/>
 
-[<img src="./posters/spyder_gopher/poster.png" width="50%">](./posters/spyder_gopher/README.md)<br/> 
-
 <img src="./posters/pretty_gopher/poster.png" width="50%"><br/>
-
 
 [<img src="./posters/bad_boys/poster.png" width="50%">](./posters/bad_boys/README.md)<br/>
 
+[<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)
 
-[<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)<br/>
+[<img src="./posters/spyder_gopher/poster.png" width="50%">](./posters/spyder_gopher/README.md)<br/> 
 
 [<img src="./posters/indiana_jonas/poster.png" width="50%">](./posters/indiana_jonas/README.md)<br/>
 
