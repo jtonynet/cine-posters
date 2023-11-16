@@ -9,6 +9,20 @@ These are satires and parodies with no commercial intent, created solely for cre
 The prompts for generating the images, as well as font resources, can be found in their respective directories in the readme files when available.
 
 
+__The following prompts were used TO create reademe header, in PT-BR, for creation in [Bing IA:](https://www.bing.com/images/create/)__
+
+
+<details>
+  <summary><b>Gopher Desenhista Robô IA</b></summary>
+"Gopher azul simbolo da linguagen goleng, desenhista, sentado em frente a uma prancheta segurando um lapis desenhando, OUTRO PERSONAGEM Robo atras dele, escrito I.A. em algum local dele apontando para o seu desenho e no chao varios papeis amassados em estilo cartoon comics com cores chapadas e fundo totalmente branco"<b>(sic)</b>
+</details>
+
+<br>
+
+---
+
+<br/>
+
 [<img src="./posters/star_wars/poster.png" width="50%">](./posters/star_wars/README.md)<br/>
 
 [<img src="./posters/avengeance/poster.png" width="50%">](./posters/avengeance/README.md)<br/>
