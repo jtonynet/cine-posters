@@ -45,6 +45,8 @@ __The following prompts were used to create readme header, in PT-BR, for creatio
 
 [<img src="./posters/jaws/poster.png" width="50%">](./posters/jaws/README.md)<br/>
 
+<img src="./posters/pulp_fiction/poster.png" width="50%"><br/>
+
 [<img src="./posters/bugbusters/poster.png" width="50%">](./posters/bugbusters/README.md)<br/>
 
 [<img src="./posters/friday_13_deploy/poster.png" width="50%">](./posters/friday_13_deploy/README.md)<br/>
