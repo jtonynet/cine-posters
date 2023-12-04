@@ -70,13 +70,13 @@ __The following prompts were used to create readme header, in PT-BR, for creatio
 
 [<img src="./posters/gombo3/poster.png" width="50%">](./posters/gombo3/README.md)<br/>
 
+[<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)<br/> 
+
 <img src="./posters/pretty_gopher/poster.png" width="50%"><br/>
 
 [<img src="./posters/the_shining/poster.png" width="50%">](./posters/the_shining/README.md)<br/>
 
 [<img src="./posters/bad_boys/poster.png" width="50%">](./posters/bad_boys/README.md)<br/>
-
-[<img src="./posters/terminator_go/poster.png" width="50%">](./posters/terminator_go/README.md)
 
 [<img src="./posters/spyder_gopher/poster.png" width="50%">](./posters/spyder_gopher/README.md)<br/> 
 
