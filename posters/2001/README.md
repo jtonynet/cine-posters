@@ -1,5 +1,7 @@
 <img src="./poster.png" width="50%">
 
+<img src="./poster_v2.png" width="50%">
+
 ### :robot: Uso de IA:
 
 Esse poster foi criado com o auxílio de [inteligência artificial](https://www.bing.com/images/) e um mínimo de 
