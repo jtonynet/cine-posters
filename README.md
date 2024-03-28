@@ -1,6 +1,6 @@
 <img src="./assets/header.png" >
 
-### :green_book: About:
+### :green_book: About
 
 This repository features memes in the form of posters for fictitious movies inspired by box office classics, with the majority featuring Gopher, the mascot of the Golang language, as the main character, along with other jokes involving various programming languages. It has a purely comedic nature with no aspirations of being the work of professional designers. AI was used extensively with minimal touch-ups and construction in Gimp [<img src="./assets/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Gimp Logo" />](https://www.gimp.org/).
 
@@ -13,7 +13,7 @@ The prompts for generating the images, as well as font resources, can be found i
 
 ---
 
-### :robot: Use of AI Header:
+### :robot: Use of AI Header
 
 __The following prompts were used to create readme header, in PT-BR, for creation in [Bing IA:](https://www.bing.com/images/create/)__
 
@@ -26,14 +26,14 @@ __The following prompts were used to create readme header, in PT-BR, for creatio
 
 ---
 
-### 🕸️ Found me in web:
+### 🕸️ Found me in web
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/learningenuity) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learningenuity) 
 
 <br/>
 
 ---
 
-### :movie_camera: Movie Posters:
+### :movie_camera: Movie Posters
 
 <br/>
 
